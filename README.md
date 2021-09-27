@@ -1,139 +1,71 @@
-# dactl
-dactl is a fast, modern and configurable [Jekyll](http://jekyllrb.com/) theme with some tricks up it's sleeve. It has a live theme switcher and it's main blog layout display prominent hero images for posts with colored overlays and nice animations.
+### Just a Student Dev. Only doing as a hobby.
 
-![light theme](uploads/screenshot_desktop_light.jpg)
-![dark theme](uploads/screenshot_desktop_dark.jpg)
+## Skills and Tools:
+### Learned a lot and still learning:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Features
-Though minimalistic-looking by nature, dactl is easily configurable and includes quite a lot of niceties:
 
-Main features:
-* Customizable blog layout - choose how your posts will be displayed
-* Light/Dark live theme switcher
-* Inline footnotes using [Barefoot](https://github.com/philgruneich/barefoot)
-* [IcoMoon](https://icomoon.io/) custom icon set (~4kb)
-* Typography and components size set in `rem` and `em` which makes them easily scalable
-* Responsive design
+### Currently learning:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-Jekyll-specific features:
-* Pagination (default: 5 posts per page)
-* Fully compatible with Jekyll 3.x and GitHub Pages
-* SEO optimized
-* [Google Analytics](https://www.google.com/analytics/) support
-* [Disqus](https://disqus.com/) comments support
-* Syntax highlighter using [Rouge](https://github.com/jneen/rouge) with numbered code lines
+### At an very early phase of learning:
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-Other features:
-* Archive page
-* About page
-* Tags functionality and tags pages
-* Link posts functionality
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-Some of the features listed above can be easily configured or disabled by you.
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-## Information about dactl
-At it's core, dactl is a forked version of [daktilo](https://github.com/kronik3r/daktilo) but it has been almost entirely rewritten from scratch.  
-I have just started my journey in the world of web development, learning new things on the way.  
-Looking for a way to put my newly acquired skills to test I found Jekyll and I quickly realized that it's going to be a good learning experience since I don't like building 'dummy' projects.  
-I've built this theme as a way to develop my skills further.
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-You can find credits at the bottom of this Readme file.  
-**All** feedback is welcome, both positive and negative.
+### Yet to learn/ Planning to learn: 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-## Installation
-### Running locally
-Assuming you've got Jekyll [installed](https://jekyllrb.com/docs/installation/), clone or download this repo, `cd` to wherever you've put `dactl` folder and run `jekyll -s'`
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 
-### Hosting on GitHub
-Fork this repo and rename it to `yourusername.github.io`... and that's it!  
-Your new dactl-themed Jekyll blog should be up and running at yourusername.github.io.  
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-## Usage
-### Slight warning
-dactl relies heavily on modern CSS properties such as [mix-blend-mode](http://www.w3.org/TR/compositing-1/#mix-blend-mode), [-webkit-filter](http://www.w3.org/TR/filter-effects-1/) and [css variables](https://drafts.csswg.org/css-variables/) so it may not work properly on older browsers.  
-It was tested with and works fully on webkit-powered browsers - Safari, Chrome, Vivaldi.
+### Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 
-### Layout configurations
-By default dactl uses blog layout which you can see below or check for yourself in the live version.
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Main blog layout displays 5 posts. Each post has a heading contained in a medium-sized tile - with an color overlay over the background image. You need to set the image and color of the overlay in post's YAML front matter.
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-If you don't want to use images for post headings you can easily configure the layout to you needs by changing settings located in `configure.yml` file, both post and blog layout will adapt accordingly.
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-Options include:
-* Use or don't use post heading images (Blog & Post)
-* Show full post content or post excerpts (Blog)
-* Show post titles only (Blog)
+### OS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Additional information about some features
-### Hero images and blog layout
-Liquid 'script' which is used to append correct hero image and overlay color as set in post YAML Front matter was written by me and while it's really basic it functions properly.  
-You can read more about it and see the code in `include/utils/hero.html`.
+![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 
-### Theme switcher
-Theme switcher is made in vanilla Javascript and works using [CSS Variables](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables). Values (colors) specified for each variable are injected into `:root` on every page load.  
-User theme choice is saved in browser's [Local Storage](https://www.w3schools.com/html/html5_webstorage.asp) and is persistent through sessions.
+![Metrics](https://metrics.lecoq.io/MSM74588?template=terminal&introduction=1&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FCalcutta)
 
-You can edit the colors of both Light and Dark themes in `themeswitcher.js` file found in `_assets/js/`.
-
-### Inline Barefoot footnotes
-dactl uses [Barefoot](https://github.com/philgruneich/barefoot) plugin to create nice looking inline footnotes from those generated by [kramdown](https://kramdown.gettalong.org/), daktl's markdown processor.
-
-Barefoot description (from project's page):
->[Barefoot](https://github.com/philgruneich/barefoot) is a lightweight [Bigfoot.js](https://github.com/lemonmade/bigfoot) alternative written in vanilla Javascript to create beautiful inline footnotes.  
-Barefoot grabs the common markup used for footnotes on the web, mostly generated by Markdown processors, and transform it into beautiful and meaningful footnotes.
-
-### CSS
-CSS is built by via Jekyll's SASS compiler. Source partial SASS files are located in `_sass` folder, included into `main.scss`, and compile to `main.css`.
-
-### Additional pages
-#### Archive page
-Archive page displays all of your posts grouped by month. Under this page's title you'll find a Searchbox which is hooked up to DuckDuckGo's `:site` search and will open the results in a new tab.  
-You need to provide your blog's web address in `search_path` field found in `_config.yml` for it to work.
-#### About page
-About page displays your photo under the title (set in `config.yml`) and the content of about.md.
-#### Tags & Tags Pages
-Tags and tag pages are supported by using Jekyll's native collections functionality.  
-
-## Even more info
-### Rems, font-size and scaling
-dactl is built almost entirely with `rem`s (instead of pixels). `rem`s are like `em`s, but instead of building on the immediate parent's font-size, they build on the root element, `<html>`.
-
-By default, dactl uses the following:
-~~~
-html {
-  font-size: 20px;
-  line-height: 1.6;
-}
-@media (max-width: 48rem) {
-  html {
-    font-size: 18px;
-  }
-}
-~~~
-To easily scale your site's typography and components, simply customize the base font-sizes found in `_sass/variables.scss` file.
-
-(Lifted from [here](https://github.com/poole/poole#rems-font-size-and-scaling))
-
-## Credits
-### Resources used
-- [IcoMoon.io](https://icomoon.io/)
-- [Normalize.css](https://github.com/necolas/normalize.css) - Nicolas Gallagher
-- [Theme switcher](https://www.fdp.io/blog/2016/11/08/theming-via-css-properties/) - Fernando Paredes
-- [Barefoot](https://github.com/philgruneich/barefoot) - Philip Gruneich
-- [The Noun Project](https://thenounproject.com/) - Icon used as dactl's logo - [Artem Kovyazin](https://thenounproject.com/term/raisin/446158), icon used as 'avatar' in About [Drishya](https://thenounproject.com/term/profile/963272)
-
-### Inspiration and thoughtful code-jacking
-Inspiration and bits of things listed below are present inside dactl's code:
-- [Daktilo](https://github.com/kronik3r/daktilo) - dactl is based on Daktilo and inherits it's one-column layout.
-- [Hydejack](https://github.com/qwtel/hydejack/) - I've learned a lot about Jekyll when I took apart [@qwtel](https://github.com/qwtel/)'s excellent fork of [Hyde](https://github.com/poole/hyde) theme. I embraced his more partials = everything is easier to edit policy. Hydejack theme gave me an idea on how to create hero images liquid scripting, loading google fonts and using rem's/em's and more.
-- [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) - This guy makes awesome themes and writes a lot about Jekyll and it's more obscure use cases on his blog, [Made Mistakes](https://mademistakes.com). Looking through his theme's code - Minimal Mistakes in particular - gave me lot of information about how to build a robust theme and how to make it configurable within `_config.yml`
-- [Trophy](https://github.com/thomasvaeth/trophy-jekyll) - Link border slide animation SASS mixin which I slightly modified to be able to easily change the direction of the animation.
-- Various blog posts about Jekyll and [Stackoverflow](https://www.stackoverflow.com) posts with useful [Liquid](https://github.com/Shopify/liquid) snippets.
-
-## License
-All parts of dactl Jekyll theme are free to use and abuse under the open-source [MIT license](http://opensource.org/licenses/mit-license.php).
-
-## TO DO
-- [ ] Inline critical `.css` in `<head>` for faster load times
-- [ ] Fix theme-switcher - sometimes it does not inject all of the colors properly on first page load and a refresh, fixes itself after switching the theme back and forth.
