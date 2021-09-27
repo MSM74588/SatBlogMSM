@@ -1,7 +1,7 @@
 # Base blog settings
 baseurl                      : '' # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : 'http://msm74588.github.io' # the base hostname & protocol for your site
+url                          : 'https://msm74588.github.io/SatBlogMSM' # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
@@ -10,11 +10,11 @@ blog:
                                this should contain a proper description
 
 # Layout configuration
-  logo_path                  : "SatBlogMSM/assets/img/dactl.svg" # path to logo file
-  search_path                : # "yourgitusername.github.io"
+  logo_path                  : "assets/img/dactl.svg" # path to logo file
+  search_path                : "msm74588.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
-  hero_placeholder           : "SatBlogMSM/assets/img/generic_hero.jpg" # placeholder for hero image
+  hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
   excerpts                   : true # show excerpts instead of full post content on blog page
   inline_footnotes           : true # enable/disable barefoot inline footnotes
   titles_only                : false # show post titles only on main blog page
