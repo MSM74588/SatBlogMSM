@@ -3,7 +3,8 @@
 ***
 ### Just a Student Dev. Only doing as a hobby.
 ***
-
+![Metrics](/github-metrics.svg)
+***
 ## Skills and Tools:
 ### Learned a lot and still learning:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -72,5 +73,3 @@
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 
 ![Metrics](https://metrics.lecoq.io/MSM74588?template=terminal&introduction=1&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FCalcutta)
-
-![Metrics](/github-metrics.svg)
